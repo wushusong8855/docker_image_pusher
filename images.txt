@@ -1,1 +1,1 @@
-DR-lin-eng/stock-scanner
+https://github.com/DR-lin-eng/stock-scanner
