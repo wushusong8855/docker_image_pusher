@@ -1,4 +1,1 @@
-aidenzou/i-notebook:latest
-ghcr.io/ofkm/arcane:latest
-qbittorrent
-Aria2
+finab/bark-server:latest
