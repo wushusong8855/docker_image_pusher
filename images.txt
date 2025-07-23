@@ -1,1 +1,4 @@
-lanzhihong/stock-scanner:latest
+aidenzou/i-notebook:latest
+ghcr.io/ofkm/arcane:latest
+qbittorrent
+Aria2
