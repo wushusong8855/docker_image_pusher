@@ -1,2 +1,1 @@
-bestzwei/libretv:latest
-
+heyfluke/stock-scanner
