@@ -1,1 +1,1 @@
-heyfluke/stock-scanner
+unilei/aipan-netdisk-search-simple
