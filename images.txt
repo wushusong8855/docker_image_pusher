@@ -1,1 +1,1 @@
-http://ghcr.io/ofkm/arcane:latest
+lanzhihong6/stock-scanner:latest
