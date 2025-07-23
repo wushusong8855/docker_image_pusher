@@ -1,1 +1,1 @@
-https://github.com/DR-lin-eng/stock-scanner
+http://ghcr.io/ofkm/arcane:latest
