@@ -1,1 +1,1 @@
-ghcr.io/red5d/docker-autocompose:latest
+mayanghua/instock:latest
