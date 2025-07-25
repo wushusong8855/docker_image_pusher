@@ -1,1 +1,1 @@
-probezy/cpolar:latest
+https://github.com/heyfluke/stock-scanner.git
