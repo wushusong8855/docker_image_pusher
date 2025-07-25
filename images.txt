@@ -1,1 +1,1 @@
-https://github.com/heyfluke/stock-scanner.git
+	qiandao-today/qiandao
