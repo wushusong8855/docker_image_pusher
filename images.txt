@@ -1,1 +1,1 @@
-ghcr.io/linuxserver/webtv:latest
+ghcr.io/linuxserver/webtv
