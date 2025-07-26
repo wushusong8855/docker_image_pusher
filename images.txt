@@ -1,1 +1,1 @@
-ghcr.io/linuxserver/webtv
+nginx:alpine
