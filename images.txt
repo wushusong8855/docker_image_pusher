@@ -1,1 +1,1 @@
-containrrr/watchtower:latest
+joinsunsoft/docker.ui:latest
